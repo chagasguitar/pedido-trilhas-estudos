@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    background-color: #EFEFEF;
+}
+
+.headdiv {
+    
+    background-color:#708DFF;
+    color: white;
+    padding: 5%;
+    
+   
+    
+}
+
+.headelement{
+    
+    margin-left: 27.7%;
+    margin-right: 27.7%;
+    
+    
+}
+
+p.headelement{
+    display: inline;
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    padding-right: 3%;
+    margin: auto;
+
+    
+}
+
+p.divcardinline{
+    color: rgb(10, 4, 4);
+    display: inline;
+    
+}
+
+
+
+h1{
+    display: inline;
+    
+    
+}
+
+.divcard{
+    
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    margin: auto;
+    margin-bottom: 3%;
+    padding: 2%;
+    
+}
+
+.divinfo{
+
+    margin: 3%;
+    
+    
+}
+
+p.divinfo{
+
+    display: inline-block;
+    margin: 3%;
+    
+    
+}
+
+p.divinfor{
+    float: right;
+    
+    margin: 3%;
+    
+    
+}
+
+h1.divinfo{
+    color: darkblue;
+}
+
+.divcards{
+    
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: -3%;
+   
+    
+}
+
+.divcorpo{
+    margin-top: -3%;
+    
+}
+
+button{
+    display: inline;
+    background-color: chartreuse;
+    float:right;
+    margin-top: 2%;
+    
+}
+
+.divcampoinfo{
+    display: inline;
+}
+div.icon{
+    display: inline;
+   float: right;
+   margin-top: 3%;
+   margin-right: 3%;
+}

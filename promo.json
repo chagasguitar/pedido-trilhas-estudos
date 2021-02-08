@@ -1,0 +1,28 @@
+[
+    {
+        "id":"",
+        "promocional": "ELEICAO",
+        "desc": "10%"
+
+    },
+
+    {
+        "id":"",
+        "promocional": "AMIGOS",
+        "desc": "5%"
+
+    },
+
+    {
+        "id":"",
+        "promocional": "FAMILIA",
+        "desc": "2%"
+    },
+    
+    {
+        "id":"",
+        "promocional": "PRIMEIRO",
+        "desc": "10%"
+    }
+
+]
